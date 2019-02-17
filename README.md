@@ -8,13 +8,13 @@ Teaching my daughter to code :)
 
 Contains projects that have been developed on Scratch, profile is here;
 
-https://scratch.mit.edu/users/unicorn-junkie/
+https://scratch.mit.edu/users/unicorn-obsessed/
 
 * Ball Chase - her first project :) catch the ball before the ghost does! Be careful though, if the ghost catches you it's game over!
 
 ## Location
 
-* Ball Chase https://scratch.mit.edu/projects/280873092/
+* Ball Chase https://scratch.mit.edu/projects/275960057/
 
 ## Whois
 Justin Bird
