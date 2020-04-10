@@ -15,11 +15,14 @@ https://scratch.mit.edu/users/unicorn-obsessed/
 ## Location
 
 * Ball Chase https://scratch.mit.edu/projects/275960057/
+* boba fett jetpack joyride https://scratch.mit.edu/projects/383049227/
+* Boat Race! (courtesy of [Redgate Coding Club](https://medium.com/ingeniouslysimple/launching-our-redgate-coding-club-for-kids-fdc29b715d04)) https://scratch.mit.edu/projects/382469725/
+
 
 ## Whois
 Justin Bird
-JUST:BI
+Metricy Ltd
 
-Email 		justin@justbi.co.uk
+Email 		justin@metricy.uk
 LinkedIn 	http://bit.ly/justinjbird
-Github		https://github.com/justin-justbi
+Github		https://github.com/justinjbird
