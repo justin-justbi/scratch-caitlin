@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Teaching my daughter to code :) Contains projects that have been developed on Scratch, profile is [here](https://scratch.mit.edu/users/unicorn-obsessed/).
+Teaching my daughter to code :) Contains projects that have been developed on [Scratch](https://scratch.mit.edu), profile is [here](https://scratch.mit.edu/users/unicorn-obsessed/).
 
 ## Inventory	
 #### [Ball Chase](https://scratch.mit.edu/projects/275960057/)
