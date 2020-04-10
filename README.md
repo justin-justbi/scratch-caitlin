@@ -18,9 +18,4 @@ See how long you can survive before you run out of fuel!
 * [Building a Galaxy With Code](https://code.org/starwars)
 
 ## Whois
-Justin Bird
-Metricy Ltd
-
-Email 		justin@metricy.uk
-LinkedIn 	http://bit.ly/justinjbird
-Github		https://github.com/justinjbird
+Justin Bird||[Metricy Ltd](https://metricy.uk)||[LinkedIn](http://bit.ly/justinjbird)
